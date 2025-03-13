@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 22,
+  "agentName": "DESKTOP-6T25G03",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelinesghubeus11.actions.githubusercontent.com/UgasEbeCy5fg9HqgVpv1uyZVdm1Byj0iN5hTUK7wnalIAr1rKM/",
+  "gitHubUrl": "https://github.com/RokaiaAkter/nodejs-ci-cd-pipeline_Module-3",
+  "workFolder": "_work"
+}
