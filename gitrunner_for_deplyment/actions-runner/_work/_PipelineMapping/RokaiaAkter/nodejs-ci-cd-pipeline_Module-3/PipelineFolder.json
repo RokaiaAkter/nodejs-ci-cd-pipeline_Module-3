@@ -1,0 +1,12 @@
+﻿{
+  "repositoryName": "RokaiaAkter/nodejs-ci-cd-pipeline_Module-3",
+  "pipelineDirectory": "nodejs-ci-cd-pipeline_Module-3",
+  "workspaceDirectory": "nodejs-ci-cd-pipeline_Module-3\\nodejs-ci-cd-pipeline_Module-3",
+  "repositories": {
+    "RokaiaAkter/nodejs-ci-cd-pipeline_Module-3": {
+      "repositoryPath": "nodejs-ci-cd-pipeline_Module-3\\nodejs-ci-cd-pipeline_Module-3",
+      "lastRunOn": "03/13/2025 16:42:31 +01:00"
+    }
+  },
+  "lastRunOn": "03/13/2025 16:42:31 +01:00"
+}
